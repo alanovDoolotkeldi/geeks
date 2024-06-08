@@ -31,7 +31,7 @@ function App() {
         </div>
         <div className="container-geeks">
           <div className="blocks">
-            {data.slice(0,8).map((item, index) => (
+            {data.map((item, index) => (
               <>
                 
 
